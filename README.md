@@ -1,4 +1,8 @@
 # FarmerFortune
 
-npm i
-npm run dev
+## Installation
+
+```bash
+  npm i
+  npm run dev
+```
